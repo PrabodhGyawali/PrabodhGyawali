@@ -5,7 +5,9 @@ I am **Prabodh Gyawali**, a second year student in the University of Leeds.
 I am currently in the stage of learning and breaking things. 
 🎯: Aiming to READING, BUILDING, READING, BUILDING, ... more to one day work in cutting-edge technology.
 
-Philosophy: I strongly believe that anyone can learn anything they want as long as they have an internet connection and it takes 10000 hours to be an expert in a field.
+### Philosophy: 
+- I strongly believe that anyone can learn anything they want as long as they have an internet connection and it takes 10000 hours to be an expert in a field.
+- Big fan of open-source software
 
 ### Current Working on:
 - Open-source Web3 project: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage)
