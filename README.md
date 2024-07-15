@@ -15,9 +15,9 @@ I am currently in the stage of learning and breaking things.
 - Bunch of projects on Github public and private repos related to what I am learning
 
 ### Skills:
-- C programming - Intermediate (able to build a HTTP Web server from scratch in C)
+- C programming - Intermediate (HTTP Web server from scratch in C)
 - Python - Build lots of projects from completing #100DaysofCode Angela Yu's Coding Bootcamp
-- Full-Stack Development: `backend = [ASP.NET, CoreFlask]; front-end = [HTML, CSS, JS, React]`  
+- Full-Stack Development: `backend = [ASP.NET, CoreFlask]`,  `frontend = [HTML, CSS, JS, React]`  
 
 ### 🌱 I’m currently learning:
 - Dev Ops: Operating Systems, Advanced Git Version Control, AWS
