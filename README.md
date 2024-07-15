@@ -18,8 +18,8 @@ Philosophy: I strongly believe that anyone can learn anything they want as long 
 - Full-Stack Development: `backend = [ASP.NET, CoreFlask]; front-end = [HTML, CSS, JS, React]`  
 
 ### 🌱 I’m currently learning:
-- Dev Ops: Operating Systems, Advanced Git Version Control,
-- Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) and reading on Statistics
+- Dev Ops: Operating Systems, Advanced Git Version Control, AWS
+- Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) whilst reading books on Statistics and Machine Learning 
 - x86 Assembly Language for Reverse Engineering and low-level programming
 - Tech Stacks: (React + Vite + TanStack + Flask)
 
