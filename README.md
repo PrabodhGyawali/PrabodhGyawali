@@ -24,6 +24,8 @@ I am currently in the stage of learning and breaking things.
 - Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) whilst reading books on Statistics and Machine Learning 
 - x86 Assembly Language for Reverse Engineering and low-level programming
 - Tech Stacks: (React + Vite + TanStack + Flask)
+- C++ and algorithms on Leetcode
+- Rust while interning on VEX Labs over the summer
 
 ###⚡ Fun facts: 
 - I am quite good at chess 2200 Rapid Rating on [Chess.com](https://www.chess.com/member/prab76)
