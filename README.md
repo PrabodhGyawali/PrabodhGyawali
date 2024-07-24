@@ -20,7 +20,7 @@ I am currently in the stage of learning and breaking things.
 - Full-Stack Development: `backend = [ASP.NET, CoreFlask]`,  `frontend = [HTML, CSS, JS, React]`  
 
 ### 🌱 I’m currently learning:
-- Dev Ops: Operating Systems, Advanced Git Version Control, AWS
+- Dev Ops: Operating Systems, Advanced Git Version Control, AWS, Docker, KuberNetes
 - Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) whilst reading books on Statistics and Machine Learning 
 - x86 Assembly Language for Reverse Engineering and low-level programming
 - Tech Stacks: (React + Vite + TanStack + Flask)
@@ -30,3 +30,4 @@ I am currently in the stage of learning and breaking things.
 ###⚡ Fun facts: 
 - I am quite good at chess 2200 Rapid Rating on [Chess.com](https://www.chess.com/member/prab76)
 - I do CTFs on tryhackme and picoCTFs occasionally
+- Really interested in all fields Engineering
