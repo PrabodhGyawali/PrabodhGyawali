@@ -11,7 +11,6 @@ I am currently in the stage of learning and breaking things.
 
 ### Current Working on:
 - Open-source Web3 project: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage)
-- Rust Intern Work at [VEX Labs](https://github.com/vex-labs)
 - Bunch of projects on Github public and private repos related to what I am learning
 
 ### Skills:
