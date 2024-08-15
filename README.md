@@ -16,15 +16,14 @@ I am currently in the stage of learning and breaking things.
 ### Skills:
 - C programming - Intermediate (HTTP Web server from scratch in C)
 - Python - Build lots of projects from completing #100DaysofCode Angela Yu's Coding Bootcamp
-- Full-Stack Development: `backend = [ASP.NET, CoreFlask]`,  `frontend = [HTML, CSS, JS, React]`  
+- Full-Stack Development: `backend = [ASP.NET, CoreFlask]`,  `frontend = [HTML, CSS, JS, React]`, MySQL  
 
 ### 🌱 I’m currently learning:
-- Dev Ops: Operating Systems, Advanced Git Version Control, AWS, Docker, KuberNetes
+- Dev Ops: The Linux Programming Interface, Working on Open-source projects, AWS
 - Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) whilst reading books on Statistics and Machine Learning 
 - x86 Assembly Language for Reverse Engineering and low-level programming
-- Tech Stacks: (React + Vite + TanStack + Flask)
+- Tech Stacks: (React + Vite + Flask)
 - C++ and algorithms on Leetcode
-- Rust while interning on VEX Labs over the summer
 
 ###⚡ Fun facts: 
 - I am quite good at chess 2200 Rapid Rating on [Chess.com](https://www.chess.com/member/prab76)
