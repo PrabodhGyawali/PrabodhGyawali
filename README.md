@@ -2,7 +2,7 @@
 
 I am **Prabodh Gyawali**, a second year student in the University of Leeds.
 
-I am currently in the stage of learning and breaking things. 
+I am currently in the stage of learning and tinkering with things whilst occasionally building. 
 🎯: Cycling through READING, BUILDING, LEARNING, ... more to one day work in cutting-edge technology.
 
 ### Philosophy: 
@@ -20,12 +20,15 @@ I am currently in the stage of learning and breaking things.
 - Full-Stack Development: `backend = [ASP.NET, CoreFlask]`,  `frontend = [HTML, CSS, JS, React + TS]`, MySQL  
 
 ### 🌱 I’m currently learning:
-- Dev Ops: The Linux Programming Interface, Working on Open-source projects, AWS
+- The Linux Programming Interface and writing Linux Drivers
+- System Design
+- DevOps: AWS, Docker and Kubernetes
 - Data Science and Machine Learning: [Data-Science & ML Bootcamp](https://udemy.com/course/python-data-science-machine-learning-bootcamp) whilst reading books on Statistics and Machine Learning 
 - x86 Assembly Language for Reverse Engineering and low-level programming
 - 3D programming with Three.js, game and rendering engines, parallel processing
-- C++ and algorithms on Leetcode
-- Electronics and Robotics
+- Parallel Processing in CUDA by reading: Programming Massively Parallel Processors
+- C++/C algorithms on Leetcode 
+- Electronics and Robotics: learning ROS2 on RasberryPi, [ECE470](https://ece4760.github.io/) 
 
 ###⚡ Fun facts: 
 - I am quite good at chess 2200 Rapid Rating on [Chess.com](https://www.chess.com/member/prab76)
