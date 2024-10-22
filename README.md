@@ -10,9 +10,11 @@ I am currently in the stage of learning and tinkering with things whilst occasio
 - Big fan of open-source software
 - Understanding hardware is as important as understanding software
 
-### Current Working on:
-- Open-source Web3 project: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage)
+### Funding Rate Arbitrage:
+Open-source Financial trading bot front and backend interface: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage). 
+Site is live: [fundingratesniper.com](https://fundingratesniper.com)
 - Bunch of projects on Github public and private repos related to what I am learning
+Will spend free time during weekend ironing out bugs to improve UI/UX and backend code for the website.
 
 ### Skills:
 - C programming - Intermediate (HTTP Web server from scratch in C)
