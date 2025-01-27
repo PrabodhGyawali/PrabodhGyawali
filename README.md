@@ -11,8 +11,11 @@ I am currently in the stage of learning and tinkering with things whilst occasio
 - Understanding hardware is as important as understanding software
 
 ### Funding Rate Arbitrage:
-Open-source Financial trading bot front and backend interface: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage). 
-Site is live: [fundingratesniper.com](https://fundingratesniper.com)
+Open-source Financial trading bot front and backend interface: [FundingRateArbitrage](https://github.com/50shadesofgwei/SynthetixFundingRateArbitrage).
+Site is live: [fundingratesniper.com](https://fundingratesniper.com) and the code to the front-end is available at [GMX-ARB-UI](https://github.com/PrabodhGyawali/GMX-Arb-UI).
+##### >150 members on [Telegram channel](https://t.me/+ualID7ueKuJjMWJk) interested in using the bot
+- I am back to fixing UI bugs and adding more features and maintaining code with the backend interface
+
 - Bunch of projects on Github public and private repos related to what I am learning
 Will spend free time during weekend ironing out bugs to improve UI/UX and backend code for the website.
 
